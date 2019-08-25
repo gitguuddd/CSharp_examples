@@ -10,7 +10,6 @@
 *.cache
 *.exe
 *.pdb
-*.txt
 *.ide
 *.ide-shm
 *.ide-wal

@@ -7,3 +7,11 @@
 *.config
 *.sln
 *.suo
+*.cache
+*.exe
+*.pdb
+*.txt
+*.ide
+*.ide-shm
+*.ide-wal
+*.lock

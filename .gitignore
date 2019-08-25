@@ -2,12 +2,8 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/Stack_Program_Structure
-/Implicit_Var/obj/Debug
-/Implicit_Var/bin/Debug
-/Implicit_Var/Properties
+
 *.csproj
 *.config
 *.sln
-/Implicit_Var/.vs/Implicit_Var/v16/Server/sqlite3
 *.suo

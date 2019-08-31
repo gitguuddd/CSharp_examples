@@ -1,0 +1,7 @@
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Indexer\bin\Debug\Indexer.exe.config
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Indexer\bin\Debug\Indexer.exe
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Indexer\bin\Debug\Indexer.pdb
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Indexer\obj\Debug\Indexer.csprojAssemblyReference.cache
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Indexer\obj\Debug\Indexer.exe
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Indexer\obj\Debug\Indexer.pdb

@@ -1,0 +1,7 @@
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Jagged_Array\bin\Debug\Jagged_Array.exe.config
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Jagged_Array\bin\Debug\Jagged_Array.exe
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Jagged_Array\bin\Debug\Jagged_Array.pdb
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Jagged_Array\obj\Debug\Jagged_Array.csprojAssemblyReference.cache
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Jagged_Array\obj\Debug\Jagged_Array.csproj.CoreCompileInputs.cache
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Jagged_Array\obj\Debug\Jagged_Array.exe
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Jagged_Array\obj\Debug\Jagged_Array.pdb

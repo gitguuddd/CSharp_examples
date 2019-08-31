@@ -14,7 +14,7 @@ namespace Partial_class
             var test = new MyPartialClass();
             test.Method1(x);
             test.Method2(x);
-            test.Method3(x);
+            test.Method3(x);//partial methods are implicitly private 
             Console.ReadLine();
         }
     }

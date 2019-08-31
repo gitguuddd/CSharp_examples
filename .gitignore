@@ -14,3 +14,20 @@
 *.ide-shm
 *.ide-wal
 *.lock
+*.dll
+*.json
+*.targets
+*.props
+/Static/Properties
+/Stack_Program_Structure/obj/Debug/netcoreapp2.1
+/Partial class/Properties
+/Interface
+/Implicit_Var
+/Anon_type
+/Dynamic_var
+/Enum_Methods
+/Partial class/obj/Debug
+/Static/obj/Debug
+/Array_Helper/Properties/AssemblyInfo.cs
+/Array_Helper/obj
+/ConsoleApp1

@@ -1,0 +1,7 @@
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Stack_\bin\Debug\Stack_.exe.config
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Stack_\bin\Debug\Stack_.exe
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Stack_\bin\Debug\Stack_.pdb
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Stack_\obj\Debug\Stack_.csprojAssemblyReference.cache
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Stack_\obj\Debug\Stack_.csproj.CoreCompileInputs.cache
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Stack_\obj\Debug\Stack_.exe
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Stack_\obj\Debug\Stack_.pdb

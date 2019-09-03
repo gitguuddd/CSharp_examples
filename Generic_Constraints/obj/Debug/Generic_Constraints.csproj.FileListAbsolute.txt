@@ -1,0 +1,7 @@
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Generic_Constraints\obj\Debug\Generic_Constraints.csprojAssemblyReference.cache
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Generic_Constraints\obj\Debug\Generic_Constraints.csproj.CoreCompileInputs.cache
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Generic_Constraints\bin\Debug\Generic_Constraints.exe.config
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Generic_Constraints\bin\Debug\Generic_Constraints.exe
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Generic_Constraints\bin\Debug\Generic_Constraints.pdb
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Generic_Constraints\obj\Debug\Generic_Constraints.exe
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\Generic_Constraints\obj\Debug\Generic_Constraints.pdb

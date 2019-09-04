@@ -1,0 +1,7 @@
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\List_\bin\Debug\List_.exe.config
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\List_\bin\Debug\List_.exe
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\List_\bin\Debug\List_.pdb
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\List_\obj\Debug\List_.csprojAssemblyReference.cache
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\List_\obj\Debug\List_.csproj.CoreCompileInputs.cache
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\List_\obj\Debug\List_.exe
+C:\Users\Mindaugas K\Documents\GitHub\CSharp_examples\List_\obj\Debug\List_.pdb
